@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1450704873 source:d:\c语言敲码练习\一元二次方程根的分析\main.c
+	<stdio.h>
+	<math.h>
+

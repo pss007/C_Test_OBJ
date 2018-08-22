@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451485957 source:d:\c语言敲码练习\求三个字符串中最大者\main.c
+	<stdio.h>
+	<string.h>
+

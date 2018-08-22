@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451188581 source:d:\c语言敲码练习\求圆周率的近似值\main.c
+	<stdio.h>
+	<math.h>
+

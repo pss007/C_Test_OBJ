@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451103396 source:d:\c语言敲码练习\小于1000正数平方根问题用循环解决多次输入错误\main.c
+	<stdio.h>
+	<math.h>
+

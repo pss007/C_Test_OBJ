@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1450875819 source:d:\c语言敲码练习\存款利息的计算\main.c
+	<stdio.h>
+	<math.h>
+
